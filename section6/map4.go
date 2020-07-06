@@ -12,7 +12,7 @@ func main() {
 	map1 := map[string]int{ //int : 0, string : "", float : 0.0
 		"apple":  15,
 		"banana": 115,
-		"orange": 1115,
+		"orange": 11115,
 		"lemon":  0,
 	}
 
